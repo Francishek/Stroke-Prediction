@@ -53,9 +53,6 @@ The dataset contains 5110 patient observations. It includes 11 independent varia
 
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
-Jupyter Notebook and dataset source, clone the Repository:
-[GitHub](https://github.com/TuringCollegeSubmissions/fverko-DS.v2.5.3.2.5)
-
 ## Setup
 
 1. Clone the repo:
