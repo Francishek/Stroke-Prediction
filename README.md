@@ -57,7 +57,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano
 
    Link [GitHub](https://github.com/Francishek/Stroke-Prediction) or
    ```bash
-   git clone https://github.com/Francishek/Spaceship-Titanic
+   git clone https://github.com/Francishek/Stroke-Prediction
    cd project-root
    ```
 2. Install dependencies:
