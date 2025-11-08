@@ -49,30 +49,27 @@ The dataset contains 5110 patient observations. It includes 11 independent varia
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown" ("Unknown" in smoking_status means that the information is unavailable for this patient)
 12) stroke: 1 if the patient had a stroke or 0 if not.
 
-### Requirements for Jupyter Notebook:
-- Python: 3.11.9
-- pandas: 2.2.3
-- numpy: 1.26.4
-- matplotlib: 3.10.1
-- seaborn: 0.13.2
-- scikit-learn: 1.6.1
-- scipy: 1.11.4
-- statsmodels: 0.14.4
-- xgboost: 3.0.1
-- lightgbm: 4.6.0
-- catboost: 1.2.8
-- optuna: 4.3.0
-- shap: 0.47.2
-- imblearn: 0.13.0
-- phik: 0.12.4
-- joblib: 1.4.2
-
 ## Data Source
 
 The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
 Jupyter Notebook and dataset source, clone the Repository:
 [GitHub](https://github.com/TuringCollegeSubmissions/fverko-DS.v2.5.3.2.5)
+
+## Setup
+
+1. Clone the repo:
+
+   Link [GitHub](https://github.com/Francishek/Stroke-Prediction) or
+   ```bash
+   git clone https://github.com/Francishek/Spaceship-Titanic
+   cd project-root
+   ```
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## To use the model for predictions:
 
